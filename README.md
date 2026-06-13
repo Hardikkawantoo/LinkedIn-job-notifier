@@ -10,3 +10,13 @@ To run this project yourself you have 2 options:
 
 2. Or you can run it in your github actions as a runnable pipline.
 <img width="2033" height="1136" alt="image" src="https://github.com/user-attachments/assets/9fd22355-73c2-405f-93b5-39bd4d91551f" />
+
+
+Steps for running in github actions:
+To run this project added these required details in the area here.
+<img width="581" height="133" alt="image" src="https://github.com/user-attachments/assets/8a826bab-90fe-4c2b-a0be-3cc554e7bbad" />
+
+Note: It is recommended to not add your details directly into the code as hardcoded values. Instead use the secrets feature in github itself. This will iject your secrets directly in run time to you variales in the python script. [Link](https://docs.github.com/en/actions/concepts/security/secrets)
+
+* For the SENDER_PASSWORD do not add your sender emails actual password. Otherwise google will ban your email request. Get the app password for you email.
+* (This step is common for running in your local machine aswell.) [Link](https://support.google.com/mail/answer/185833?hl=en)

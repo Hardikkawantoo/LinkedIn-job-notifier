@@ -21,5 +21,5 @@ Note: It is recommended to not add your details directly into the code as hardco
 * For the SENDER_PASSWORD do not add your sender emails actual password. Otherwise google will ban your email request. Get the app password for you email.
 * (This step is common for running in your local machine aswell.) [Link](https://support.google.com/mail/answer/185833?hl=en)
 
-Here is how its working for me:
+Here is how its working for me and Good luck with your job hunt. I know its hard but lets not lose hope and keep trying. :)
 <img width="2241" height="1169" alt="image" src="https://github.com/user-attachments/assets/d4b7a0bf-5c42-4d11-81ed-a0bd989dc412" />
